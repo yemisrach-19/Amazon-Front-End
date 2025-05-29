@@ -8,4 +8,5 @@ body {
   background: #000;
   color: white;
 }
-
+:root{--primary-color:#febd69;
+  --primary-shade :#d49644;}
